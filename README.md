@@ -10,7 +10,6 @@
         <div>
           <p><a href="https://github.com/MaksymKlos/PlanYourGoals.UI">UI Repository</a></p>
           <p><a href="https://github.com/MaksymKlos/PlanYourGoals.Server">Server Repository</a></p>
-          <p><a href="#">Demo</a></p>
         </div>
       </div>
     </li>
